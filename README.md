@@ -1,3 +1,4 @@
 # QA-Portfolio
 Manual test case document for nopCommerce demo site
-Test_Cases - Test Case for nopCommerce app .pdf
+### 📄 Manual Test Cases
+- [nopCommerce Manual Test Case Document (PDF)](https://github.com/yourusername/QA-Portfolio/blob/main/nopCommerce_TestCases.pdf)
